@@ -9,7 +9,7 @@ import { AutenticacionComponent } from './paginas/autenticacion/autenticacion.co
 import { DepartamentosComponent } from './paginas/departamentos/departamentos.component';
 import { PcsComponent } from './paginas/pcs/pcs.component';
 import { ExpedientesComponent } from './paginas/expedientes/expedientes.component';
-import { BanerComponent } from './Componentes/baner/baner.component';
+import { BanerComponent } from './baner/baner.component';
 import { BienvenidaComponent } from './paginas/bienvenida/bienvenida.component';
 
 
