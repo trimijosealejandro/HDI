@@ -7,9 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AutenticacionComponent implements OnInit {
 
+  validacion = true;
+
   constructor() { }
 
   ngOnInit(): void {
+    
   }
 
+  Submit(){
+    return console.log('enviado corectamente');
+  }
 }
